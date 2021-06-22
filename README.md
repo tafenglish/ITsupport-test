@@ -1,4 +1,4 @@
-# IT Support Test (PT. Karya Laili Mednunia)
+# IT Support Test (PT. Karya Laili Mendunia)
 Hai para calon staff PT. Karya Laili Mendunia
 Selamat karena telah menyelesaikan 2<sup>nd</sup> Interview.
 
