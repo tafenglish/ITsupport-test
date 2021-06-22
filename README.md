@@ -9,7 +9,7 @@ Anda perlu menyelesaikan tes terakhir dari kami, cukup ikuti petunjuk dan mulai 
 
 <h3>Pada folder "admin" :</h3>
 • Perbaiki tombol "edit" yang ada di tabel agar bisa memilih kunci yang sesuai dengan database setelah di klik<br>
-• Tambahkan fungsi untuk menyimpan data yang ingin diedit tadi dengan uery UPDATE<br>
+• Tambahkan fungsi untuk menyimpan data yang ingin diedit tadi dengan query UPDATE<br>
 • Kosongkan form setelah tombol submit ter-klik
 
 <h3>Pada folder "user" :</h3>
@@ -23,5 +23,5 @@ Anda perlu menyelesaikan tes terakhir dari kami, cukup ikuti petunjuk dan mulai 
 • Perbaikan UI/UX akan menjadi nilai lebih
 
 <h2>Cara pengumpulan :</h2>
-• Kirim file dengan bentuk *.zip ke nomor HRD/HCD yang mengundang kamu untuk 1<sup>st</sup> Interview dengan format <b>NAMA_TANGGAL 2ND INTERVIEW_POSISI YANG DILAMAR (IT_SUPPORT)</b><br>
+• Kirim file dengan bentuk \*.zip ke nomor HRD/HCD (+62 882-0096-78071) yang mengundang kamu untuk 1<sup>st</sup> Interview dengan format <b>NAMA_TANGGAL 2ND INTERVIEW_POSISI YANG DILAMAR (IT_SUPPORT)</b><br>
 • Waktu pengiriman paling lambat H+1 setelah 2<sup>nd</sup> Interview 
