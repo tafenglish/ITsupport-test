@@ -8,7 +8,7 @@ Anda perlu menyelesaikan tes terakhir dari kami, cukup ikuti petunjuk dan mulai 
 • Ada 2 folder yang harus Anda kerjakan yaitu "admin" dan "user"
 
 <h3>Pada folder "admin" :</h3>
-• Perbaiki tombol "edit" agar bisa memilih kunci yang sesuai dengan database<br>
+• Perbaiki tombol "edit" yang ada di tabel agar bisa memilih kunci yang sesuai dengan database setelah di klik<br>
 • Tambahkan fungsi untuk menyimpan data yang ingin diedit tadi dengan uery UPDATE<br>
 • Kosongkan form setelah tombol submit ter-klik
 
