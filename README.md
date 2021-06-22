@@ -1,11 +1,11 @@
 # IT Support Test (PT. Karya Laili Mendunia)
-Hai para calon staff PT. Karya Laili Mendunia
-Selamat karena telah menyelesaikan 2<sup>nd</sup> Interview.
+Hai para calon staff PT. Karya Laili Mendunia<br>
+Kami ucapkan SELAMAT! karena telah menyelesaikan 2<sup>nd</sup> Interview.
 
-Anda perlu menyelesaikan tes terakhir dari kami, cukup ikuti petunjuk dan mulai berkreasi! :star_struck:
+Ada satu misi lagi yang perlu kamu selesaikan, cukup ikuti petunjuk dan mulailah berkreasi! :star_struck:
 
-## Petunjuk tes :
-* Ada 2 folder yang harus Anda kerjakan yaitu "admin" dan "user"
+## Petunjuk :
+* Ada 2 folder yang harus Anda otak-atik yaitu "admin" dan "user"
 
 ### Pada folder "admin" :
 * Perbaiki tombol "edit" yang ada di tabel agar bisa memilih kunci yang sesuai dengan database setelah di klik<br>
@@ -26,5 +26,5 @@ Anda perlu menyelesaikan tes terakhir dari kami, cukup ikuti petunjuk dan mulai 
 * Kirim file dengan bentuk \*.zip ke nomor HRD/HCD (+62 882-0096-78071) yang mengundang kamu untuk 1<sup>st</sup> Interview dengan format <b>NAMA_TANGGAL 2ND INTERVIEW_POSISI YANG DILAMAR (IT_SUPPORT)</b><br>
 * Waktu pengiriman paling lambat H+1 setelah 2<sup>nd</sup> Interview
 
-Warm regards,<br>
-IT Staff Senior :innocent:
+Salam sukses dari Saya,<br>
+IT Staff Senior :nerd_face:
