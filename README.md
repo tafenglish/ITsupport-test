@@ -2,7 +2,7 @@
 Hai para calon staff PT. Karya Laili Mendunia
 Selamat karena telah menyelesaikan 2<sup>nd</sup> Interview.
 
-Anda perlu menyelesaikan tes terakhir dari kami, cukup ikuti petunjuk dan mulai berkreasi!
+Anda perlu menyelesaikan tes terakhir dari kami, cukup ikuti petunjuk dan mulai berkreasi! :star_struck:
 
 ## Petunjuk tes :
 * Ada 2 folder yang harus Anda kerjakan yaitu "admin" dan "user"
