@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Taufik Sinaw</title>
+	<title>Halaman Admin</title>
 </head>
 <body>
 	<form>

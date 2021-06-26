@@ -6,7 +6,7 @@
 </head>
 <body>
 	<?php
-		include 'koneksi.php';
+		include '../koneksi.php';
 		$sql = mysqli_query($con, "select * from tbl_soal");
 		$row = mysqli_fetch_array($sql);
 	?>

@@ -1,6 +1,6 @@
 
 			<?php
-				include 'koneksi.php';
+				include '../koneksi.php';
 
 				if (isset($_POST['aksi'])) {
 					#echo "<script>alert('".$_POST['nomor']."')</script>";
