@@ -48,20 +48,25 @@
 				while ($row = mysqli_fetch_array($sql)) {
 					$id_jawaban = 0;
 					$query = mysqli_query($con, "select * from tbl_jawaban where id_soal = '".$row['id']."'");
+					$kunci = array();
+
 					echo '
 			<tr>
 				<td>'. $row['id'] .'</td>
 				<td>'. $row['soal'] .'</td>';
+
 					while ($jawaban = mysqli_fetch_array($query)) {
 						${$row_jawaban[$id_jawaban]} = $jawaban['pilihan_jawab'];
+						$kunci[addslashes($jawaban['pilihan_jawab'])] = $row_jawaban[$id_jawaban];
 						$id_jawaban++;
 						echo '
 				<td>'. $jawaban['pilihan_jawab'] .'</td>';
 					}
+
 					echo '
 				<td>'. $row['jawaban'] .'</td>
 				<td>
-					<button onclick="ubahData(\''.$row['id'].'\', \''.$row['soal'].'\', \''.$a.'\', \''.$b.'\', \''.$c.'\', \''.$d.'\', \''.$row['jawaban'].'\')">Ubah</button>
+					<button onclick="ubahData(\''.$row['id'].'\', \''.$row['soal'].'\', \''.$a.'\', \''.$b.'\', \''.$c.'\', \''.$d.'\', \''.$kunci[addslashes($row['jawaban'])].'\')">Ubah</button>
 					<button onclick="hapusData(\''.$row['id'].'\')">Hapus</button>
 				</td>
 			</tr>';

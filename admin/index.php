@@ -33,6 +33,7 @@
 		<div class="form-control">
 			<label>Kunci</label>
 			<select name="kunci">
+				<option selected disabled></option>
 				<option value="a">A</option>
 				<option value="b">B</option>
 				<option value="c">C</option>
